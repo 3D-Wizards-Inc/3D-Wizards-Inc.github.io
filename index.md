@@ -1,7 +1,7 @@
 
 ## Overview
 
-3D-Wizards Inc. is a business that develops and sells 3D printed products. The web application for the online store is currently under development, but final application will allows users to browse items, make orders, and get in contact with the business owners.
+3D-Wizards Inc. is a business that develops and sells 3D printed products. The web application for the online store is currently under development, but the final application will allows users to browse items, make orders, and get in contact with the business owners.
 
 ## Current Goals
 
