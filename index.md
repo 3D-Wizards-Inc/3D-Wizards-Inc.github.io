@@ -7,6 +7,8 @@ The Problem: For the past year we have been a popular staple of physical marketp
 
 The Solution: We want to build my company a website where prospective customers can easily put in orders, with an admittedly overwhelming number of custom options, in a welming user-interface. 
 
+Our team contract with all of the member's signatures can be found [here](https://docs.google.com/document/d/1khLUqeU3P_N2-VMSdp-ibR_amM5T2jIwDZtIPfz1X4s/edit?tab=t.0).
+
 ## Approaches
 
 There's many customer service processes in our company that I think could be streamlined, improved, or introduced with this website. Here are a few of my goals and hopes as well as their implementation.
@@ -44,24 +46,44 @@ There's many customer service processes in our company that I think could be str
 - Many parents want to buy a specific toy for each child in their life in their favorite color, the basic shop page would make this drastically easier.
 - A business that wants to either start mass producing a product or even just get a prototype could take advantage of this webapp.
 
-## Current Goals
+## Current State of the Project
 
-The milestone we are currently working towards is M1. This milestone includes:
+We have completed milestone M1, which consists of the landing page and the mockups of four other pages: store, custom order, about us, and business inquiries. Much of the functionality of the pages have already been implemented as part of our [M1 project](https://github.com/orgs/3D-Wizards-Inc/projects/1), which displays the full list of issues completed in M1. To view the repositories and source code of our project, our [github organization can be viewed here](https://github.com/3D-Wizards-Inc).
 
-* Home Page
-  > This page will list some of the popular products availabe and have an "About Us* section
+### Landing Page
 
-* Product List Page
-  > This page will contain all of the availabe items
+Insert updated landing page
 
-* Custom Order Request Page
-  > Customers will be able customize the size and color of their orders
+### Store Page
 
-* Navbar and Footer
-  >The navbar will contain links to the business's instagram, the rest of the pages, and the sign in page. The footer will contain the contact info of the business.
+Insert updated store page
+<!--![](https://cdn.discordapp.com/attachments/721939404226297860/1308982018968916029/1fc35a00e811ee5c2f98b4cdd419f380.png?ex=673fec01&is=673e9a81&hm=86309771bccf4f81cfef1fb8e7ca1fe7a487fd69ad257ac41d3be11413b4f548&)-->
 
-When M1 is complete, we plan to implement additional features to the application such as a page for business propositions, a purchase history, and more custom ordering options.
+Customers are able to browse the full catalog of items as well as use the left column to filter items by categories, colors, and size. A search bar is also included.
 
-## Landing Page Mockup
+### Custom Order Page
 
-![](https://cdn.discordapp.com/attachments/1305379341588496424/1306528528141123656/image.png?ex=6736ff03&is=6735ad83&hm=6f1b6e31a35d7c322c73a3fea228d5fea4d27d1c0a580928fe4cb2e541893274&)
+![](https://cdn.discordapp.com/attachments/721939404226297860/1308984069995892817/1ec1166273d206540aebe7c06cb82686.png?ex=673fedea&is=673e9c6a&hm=76e3f0510aea963405403105c9369ef0c17a8807e5b4a73ccc8c8e8946422321&)
+
+Customers are also able to put in their own custom order by first choosing a product, then specifying the colors, size, and quantity of their order. Submitting an order adds and entry to the prisma database, which will be able to be viewed in an eventual "cart" implementation.
+
+### About Us Page
+
+Insert About us page
+
+### Business Inquiries Page
+
+Insert business inquiries page
+
+### Deployment
+
+The current website deployed on vercel can be accessed here.
+
+## The Next Steps
+
+Our current goal is the [M2 project](https://github.com/orgs/3D-Wizards-Inc/projects/2), which furthur expands on the mockup pages and functionalities created in M1. Some key features that are planned to be implemented in this milestone are:
+
+- Placeholder
+- ..
+- ..
+- ..
