@@ -52,23 +52,23 @@ We have completed milestone M1 and M2, which consists of the landing page,  abou
 
 ### Landing Page
 
-![](landingpageM1.png)
+![](landingpageM2.png)
 
 ### Store Page
 
-![](storeM1.png)
+![](storepageM2.png)
 
 Customers are able to browse the full catalog of items as well as use the left column to filter items by categories, colors, and size. A search bar is also included.
 
 ### Custom Order Page
 
-![](customM1.png)
+![](customorderpageM2.png)
 
 Customers are also able to put in their own custom order by first choosing a product, then specifying the colors, size, and quantity of their order. Submitting an order adds and entry to the prisma database, which is able to be viewed in the cart page.
 
 ### About Us Page
 
-![](aboutM1.png)
+![](aboutM2.png)
 
 ### Business Inquiries Page
 
