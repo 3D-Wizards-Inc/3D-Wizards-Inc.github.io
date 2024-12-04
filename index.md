@@ -48,7 +48,7 @@ There's many customer service processes in our company that I think could be str
 
 ## Current State of the Project
 
-We have completed milestone M1, which consists of the landing page and the mockups of four other pages: store, custom order, about us, and business inquiries. Much of the functionality of the pages have already been implemented as part of our [M1 project](https://github.com/orgs/3D-Wizards-Inc/projects/1), which displays the full list of issues completed in M1. To view the repositories and source code of our project, our [github organization can be viewed here](https://github.com/3D-Wizards-Inc).
+We have completed milestone M1 and M2, which consists of the landing page,  about us page, and business inquiries page as well as working 1st drafts of the store, custom order, and cart pages. We have sucsesfully began using database features to customize and add a product to the users cart which can be viewed on the cart page. To view the repositories and source code of our project, our [github organization can be viewed here](https://github.com/3D-Wizards-Inc).
 
 ### Landing Page
 
@@ -64,7 +64,7 @@ Customers are able to browse the full catalog of items as well as use the left c
 
 ![](customM1.png)
 
-Customers are also able to put in their own custom order by first choosing a product, then specifying the colors, size, and quantity of their order. Submitting an order adds and entry to the prisma database, which will be able to be viewed in an eventual "cart" implementation.
+Customers are also able to put in their own custom order by first choosing a product, then specifying the colors, size, and quantity of their order. Submitting an order adds and entry to the prisma database, which is able to be viewed in the cart page.
 
 ### About Us Page
 
@@ -80,4 +80,4 @@ The current website deployed on vercel can be accessed [here](https://3-d-wizard
 
 ## The Next Steps
 
-Our current goal is the [M2 project](https://github.com/orgs/3D-Wizards-Inc/projects/2), which furthur expands on the mockup pages and functionalities created in M1. <!--Some key features that are planned to be implemented in this milestone are:-->
+Our current goal is the [M3 project](https://github.com/orgs/3D-Wizards-Inc/projects/3), which finalizes the Ui of the pages we got working in M2. 
