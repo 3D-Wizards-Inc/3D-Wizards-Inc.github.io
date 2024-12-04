@@ -83,7 +83,7 @@ Customers are also able to put in their own custom order by first choosing a pro
 
 ### Deployment
 
-The current website deployed on vercel can be accessed [here](https://3-d-wizards-inc.vercel.app/).
+The current website deployed on vercel can be accessed [here](https://3-d-wizards-inc-two.vercel.app/).
 
 ### User Guide
 Once a user makes an account the user is free to browse all the pages, pick which products they want, add them to their cart, and eventually check out.
