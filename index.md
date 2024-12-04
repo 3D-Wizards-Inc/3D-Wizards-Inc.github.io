@@ -60,6 +60,13 @@ We have completed milestone M1 and M2, which consists of the landing page,  abou
 
 Customers are able to browse the full catalog of items as well as use the left column to filter items by categories, colors, and size. A search bar is also included.
 
+![](productPageM2.png)
+
+
+### Cart Page
+![](cartPageM2.png)
+![](databaseM2.png)
+
 ### Custom Order Page
 
 ![](customorderpageM2.png)
@@ -77,6 +84,12 @@ Customers are also able to put in their own custom order by first choosing a pro
 ### Deployment
 
 The current website deployed on vercel can be accessed [here](https://3-d-wizards-inc.vercel.app/).
+
+### User Guide
+Once a user makes an account the user is free to browse all the pages, pick which products they want, add them to their cart, and eventually check out.
+
+### Developer Guide
+We are working to streamline adding products easily. All it should take is defining the availible attributes and a picture for the new product on the store page and creating a product page for them. Then every product can easily be added to the database and viewed in the cart.
 
 ## The Next Steps
 
