@@ -146,6 +146,9 @@ This section will guide a developer through the process of downloading, installi
 3. #### Modifying the system
     Now that the required packages are installed, the project can be modified to implement changes or debug issues. To test changes before commiting, the developer will need a postgres server running and then run the command "npm run dev". This will run the project on the user's local host. After commiting and pushing changes, the vercel project will automatically deploy and the website may be viewed on vercel.
 
+## Acceptance testing/CI status badge
+![ci-badge](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc/workflows/3D-Wizards-Inc/badge.svg)
+
 ## Milestone project pages
 
 The milestone pages show which issues were completed for that milestone and which team members worked on the issues.
