@@ -105,7 +105,11 @@ Sometimes, customers will want something a little more specific. In the custom o
 </div>
 <div class="box-container">
   <div class="box">"Maybe add more to the descriptions of the products and use an additional font. It also looks kind of weird on mobile, but other than that it looks like a legit website and I like all the options to customize each product and I also like the confirmation after adding an item or checking out."</div>
-  <div class="box">Box 5</div>
+  <div class="box">"This website is very simple in layout and is very easy to navigate through. The complementary color scheme utilized is very appealing and unique to the branding of the website. The use of imagery for the products is very consistent in quality and the formatting is clean and clear."</div>
+</div>
+<div class="box-container">
+  <div class="box">"The website was very user friendly. when creating the custom order, i appreciated that i could see a sample of the shades that i was choosing to get a better idea of what product i would receive. however, i would have liked to have some sort of example or description for the products and what would be considered primary, secondary & tertiary colors on the order. i did find a few small grammar/capitalization errors on the site but nothing that took away from the overall design and functionality of the website. a personal preference of readability and design: i did not like the three columns on the home page of the website."</div>
+  <div class="box">"This website looks good but looks funky on mobile. On mobile, the paragraphs on the main page looks crowded and the sign up page also looks really thin. But other than that I can check out items just fine."</div>
 </div>
 
 Overall, there is a lot of constructive criticism to take away from the feedback we recieved. While the website seems easy to use and functions well, some things can be improved. In particular, the website not looking to standard on mobile devices is the main criticism we have noticed, as well as additional product descriptions and general aesthetics of the site.
