@@ -11,6 +11,24 @@
 }
 </style>
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Approaches](#approaches)
+- [Use Cases](#use-cases)
+- [User Guide](#user-guide)
+  - [Landing Page](#landing-page)
+  - [Creating an Account](#creating-an-account)
+  - [Store Page](#store-page)
+  - [Cart Page](#cart-page)
+  - [View your orders](#view-your-orders)
+  - [Custom Order Page](#custom-order-page)
+  - [About Us Page](#about-us-page)
+  - [Business Inquiries Page](#business-inquiries-page)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+- [Milestone Project Pages](#milestone-project-pages)
+
 ## Overview
 
 3D-Wizards Inc. is a business that develops and sells 3D printed products. The web application for the online store is currently under development, but the final application will allows users to browse items, make orders, and get in contact with the business owners.
@@ -52,6 +70,10 @@ There's many customer service processes in our company that I think could be str
 ## User Guide
 
 This section will guide the user through all of the implemented functionality of the online store. The website deployed to Vercel can be accessed [here](https://3-d-wizards-inc-two.vercel.app/).
+
+To fully test the web app, use the following admin login:
+email: temptestadmin@314.com
+pw: tester
 
 ### Landing Page
 
