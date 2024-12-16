@@ -41,25 +41,22 @@ Our team contract with all of the member's signatures can be found [here](https:
 
 ## Approaches
 
-There's many customer service processes in our company that I think could be streamlined, improved, or introduced with this website. Here are a few of my goals and hopes as well as their implementation.
+Our implementations have gone very smoothly. At the moment our site could absolutely be used to improve the productivity of the real 3D Wizards buisness. We will actually be making the whole site more practically usable in the near future but most of the features work well and as we had hoped.
 
 ### Online Store
 
 - Potential customers should be able to browse a wide variety of our products.
 - Customers should be able to add items to their cart and checkout.
 - Even just sending us the requests this way would drastically improve productivity but a stretch goal would be to actually process payments through the web application instead of in person on delivery.
-- In-Store pick-up and Shipping will be options which will have different check out prompts.
+
 
 ### Custom Orders
 
-- We will design a graphical interface to choose specific custom colors/filament materials for different parts of the 3D model.
-- There will also be another option to upload a 3D file of the customer's choosing along with material instructions as a requisition.
-- There should be a cost and wait time estimator even if it's not entirely accurate at first before proper implementation.
+- We designed a graphical interface to choose specific custom colors/filament materials for different parts of the 3D model.
 
 ### Business Collaboration
 
-- We will also create a request form for businesses to reach out for a more involved partnership and longer-term business deal.
-- Should allow for uploading images and a proposition.
+- We have options for how we can collaborate and how a business can move forward with working with us.
 
 ## Use Cases
 
